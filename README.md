@@ -11,17 +11,17 @@ The code combines the training dataset and the test dataset, and extracts partia
 1. CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 2. run_analysis.R shows the data analysis by following the following steps:
-> Loading dplyr Library
-> Getting and Setting Working Directory
-> Reading Training datasets
-> Reading Test data
-> Reading features description
-> Reading activity labels
-> Merging the training and the test datasets to create one data sets
-> Extracting the measurements on the mean and the standard deviation for each measurement. 
-> Using descriptive activity names to name the activities in the data set.
-> Labeling the data set with descriptive variable names
-> Creating an independent tidy dataset with the average of each variable for each activity and each subject
+loading dplyr library,
+getting and setting working directory,
+reading Training datasets,
+reading Test data,
+reading features description,
+reading activity labels, 
+merging the training and the test datasets to create one data sets,
+extracting the measurements on the mean and the standard deviation for each measurement,  
+using descriptive activity names to name the activities in the data set,
+labeling the data set with descriptive variable names,
+creating an independent tidy dataset with the average of each variable for each activity and each subject.
 
 3. FinalData.txt is the exported final data after going through all the sequences described above.
 
