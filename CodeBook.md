@@ -9,7 +9,7 @@ output: "FinalData.txt"
 # Code Book
 The "FinalData.txt" contains the average of each variable for each activity and 
 each subject from the Human Activity Recognition Using Smartphones Data Set. 
-Broadly 7 steps are being followed to complete the activity. 
+Broadly 7 steps are being followed to complete the activity. For creating a tidy data set I have followed the given 5 steps instructions. Here, the 1st and 2nd sub-section represent how I download the dataset and assign each data to variables. The next 5 sub-section(3rd-7th) show how the tidy data set was created.  
 
 ## 1. Download the dataset
  - Dataset downloaded and extracted under the folder called **UCI HAR Dataset**.
